@@ -1,0 +1,17 @@
+{
+  "name": "kerrokantasi-ui-turku",
+  "version": "0.0.1",
+  "scripts": {
+    "build-favicons": "node ./scripts/favicon-generator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersinno/kerrokantasi-ui-turku.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andersinno/kerrokantasi-ui-turku/issues"
+  },
+  "devDependencies": {
+    "favicons": "^5.4.1"
+  }
+}
