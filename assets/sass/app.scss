@@ -1,24 +1,5 @@
-///// Helsinki brand variables
-@import "~kerrokantasi-ui-modules/hel-bootstrap-3/src/sass/helsinki-variables";
-///// Application specific theme variables
 @import "turku/variables";
-///// Helsinki Bootstrap 3 theme variables
-@import "~kerrokantasi-ui-modules/hel-bootstrap-3/src/sass/theme-bootstrap-variables";
 
 @import "~kerrokantasi-ui/assets/sass/kerrokantasi/variables";
 @import "~kerrokantasi-ui/assets/sass/kerrokantasi/bootstrap";
-
-///// hel-bootstrap-3 Bootstrap overrides
-@import "~kerrokantasi-ui-modules/hel-bootstrap-3/src/sass/theme-custom-styles";
-
-///// Kerrokantasi Base styles
 @import "~kerrokantasi-ui/assets/sass/kerrokantasi/kerrokantasi";
-
-///// Helsinki overwrites
-@import "turku/carousel";
-@import "turku/footer";
-@import "turku/hearing-form";
-@import "turku/hearing-list";
-@import "turku/hearing-page";
-@import "turku/home";
-@import "turku/navigation";
