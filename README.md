@@ -9,15 +9,15 @@ the kerrokantasi-ui `node_modules/kerrokantasi-ui-turku` folder. If someone can 
 a solution to this, please fix.
 
 Development steps:
-0. Place the `kerrokantasi-ui-turku` folder next to the `kerrokantasi-ui` folder
+1. Place the `kerrokantasi-ui-turku` folder next to the `kerrokantasi-ui` folder
     * The structure should look like this:
       ```
       /
         /kerrokantasi-ui
         /kerrokantasi-ui-turku
       ```
-1. In the `kerrokantasi-ui` project run `yarn add ../kerrokantasi-ui-turku`
-2. Edit files in `kerrokantasi-ui/node_modules/kerrokantasi-ui-turku` for changes to be reflected
+2. In the `kerrokantasi-ui` project run `yarn add ../kerrokantasi-ui-turku`
+3. Edit files in `kerrokantasi-ui/node_modules/kerrokantasi-ui-turku` for changes to be reflected
 
 
 Production installation:
