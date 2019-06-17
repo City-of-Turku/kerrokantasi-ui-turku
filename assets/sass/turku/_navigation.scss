@@ -1,0 +1,40 @@
+.navbar-primary {
+  background-color: $brand-info;
+}
+
+@media (min-width: $screen-md-min) {
+  .navbar-nav > li > a {
+    position: relative;
+    padding-left: 0;
+    padding-right: 0;
+    margin-right: 15px;
+    margin-left: 15px;
+    font-weight: 500;
+    font-size: 15px;
+  }
+
+  .navbar-nav > .active > a,
+  .navbar-nav > li > a:hover,
+  .navbar-nav > li > a:focus {
+    &:after {
+      content: "";
+      border-bottom: solid 2px $white;
+      position: absolute;
+      bottom: 14px;
+      margin-left: auto;
+      margin-right: auto;
+      left: 0;
+      right: 0;
+    }
+  }
+}
+
+.navbar-default .navbar-brand {
+  font-weight: bold;
+
+  &:hover,
+  &:focus {
+    color: $navbar-default-color;
+    background-color: rgba(255,255,255,0.05);
+  }
+}
