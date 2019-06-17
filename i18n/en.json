@@ -1,3 +1,7 @@
 {
-  "commentConditions": "All comments will be published {linkToDefinition} in the City of Turku online service {linkToLicense}. If you are not logged in, you may leave an anonymous comment. The comments may be moderated if they contain insulting or offensive language."
+  "commentConditions": "All comments will be published {linkToDefinition} in the City of Turku online service {linkToLicense}. If you are not logged in, you may leave an anonymous comment. The comments may be moderated if they contain insulting or offensive language.",
+  "fullscreenHeaderLogoAlt": "City of Turku logo",
+  "footerLogoAlt": "City of Turku logo",
+  "headerLogoAlt": "City of Turku logo",
+  "copyrightText": "City of Turku"
 }

@@ -1,3 +1,7 @@
 {
-  "commentConditions": "Uttryckta kommentarer publiceras {linkToDefinition} i Åbo stads tjänst {linkToLicense}. Du kan lämna din kommentar anonymt om du inte har loggat in. Dessutom redigeras texter vid behov på grund av kränkande eller annars osakligt språkbruk."
+  "commentConditions": "Uttryckta kommentarer publiceras {linkToDefinition} i Åbo stads tjänst {linkToLicense}. Du kan lämna din kommentar anonymt om du inte har loggat in. Dessutom redigeras texter vid behov på grund av kränkande eller annars osakligt språkbruk.",
+  "fullscreenHeaderLogoAlt": "Åbo logo",
+  "footerLogoAlt": "Åbo logo",
+  "headerLogoAlt": "Åbo logo",
+  "copyrightText": "Åbo stad"
 }
