@@ -5,6 +5,10 @@ $dark-gray:     #525a65;
 $medium-gray:   #abb2bd;
 $black:         #000000;
 
+$gray:         $dark-gray;
+$gray-light:   #757575;
+$gray-lighter: $light-gray;
+
 // Turku main colors
 $turku-primary-blue: #006bb6;
 $turku-primary-yellow: #ffc233;
@@ -28,7 +32,7 @@ $theme-success-light: scale-color($theme-success, $lightness: 15%);
 $theme-info:          $turku-primary-blue;
 $theme-info-light:    scale-color($theme-info, $lightness: 70%);
 $theme-warning:       $turku-complementary-orange;
-$theme-warning-light: scale-color($theme-warning, $lightness: 40%);
+$theme-warning-light: scale-color($theme-warning, $lightness: 30%);
 $theme-danger:        $kiss-my-turku-red;
 $theme-danger-light:  scale-color($theme-danger, $lightness: 40%);
 
@@ -48,3 +52,11 @@ $brand-warning:   $theme-warning;
 $brand-danger:    $theme-danger;
 
 $font-family-sans-serif: Arial, sans-serif;
+
+$navbar-default-color:            $white;
+$navbar-default-link-color:       $white;
+$navbar-default-link-hover-color: $white;
+
+$navbar-default-toggle-hover-bg:     transparent;
+$navbar-default-toggle-icon-bar-bg:  $white;
+$navbar-default-toggle-border-color: $white;
