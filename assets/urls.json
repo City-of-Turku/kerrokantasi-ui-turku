@@ -1,6 +1,6 @@
 {
   "hostname": "https://kerrokantasi.turku.fi",
-  "privacyPolicy": "https://localhost:8086/rekisteriseloste",
+  "privacyPolicy": "https://rekisteri.turku.fi/Saabe_data",
   "feedback": "https://opaskartta.turku.fi/eFeedback/",
   "rasterMapTiles": "http://tiles.hel.ninja/styles/hel-osm-bright/{z}/{x}/{y}@2x.png",
   "city": "http://www.turku.fi",
