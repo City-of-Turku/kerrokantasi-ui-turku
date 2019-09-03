@@ -39,15 +39,21 @@ Palvelun valvojilla on oikeus poistaa ja muokata viestejä. Turun kaupunki pidä
 Palvelun viestien tulee noudattaa hyvää keskustelutapaa ja niiden tulee liittyä kyseessä olevaan aiheeseen. Viesti poistetaan, jos se on määritelty Suomen lainsäädännössä lainvastaiseksi.
 
 Lainvastainen viesti esimerkiksi:
-* loukkaa toisen kunniaa levittää toisen yksityisyyttä koskevia tietoja levittää salassa pidettäviä tietoja
-* kiihottaa kansanryhmää vastaan yllyttää rikokseen.
+* loukkaa toisen kunniaa
+* levittää toisen yksityisyyttä koskevia tietoja
+* levittää salassa pidettäviä tietoja
+* kiihottaa kansanryhmää vastaan
+* yllyttää rikokseen
 
 Asiaton viesti voidaan poistaa tai sitä voidaan muokata. Viestin asiattomuus tai aiheeseen liittymättömyys ratkaistaan tapauskohtaisesti
 
 Asiaton viesti esimerkiksi:
-* sisältää kiroilua tai alatyylisiä ilmaisuja linkittää internet-aineistoon, joka ei tue keskustelun aihetta tai
-* on muuten asiaton ei liity keskustelun kohteena olevaan aiheeseen ei ole välttämättä lainvastainen, mutta on jotain
-* henkilöä tai henkilöryhmää loukkaava sisältää kaupallisia viestejä sisältää toisen yksityishenkilön henkilö- tai yhteystietoja.
+* sisältää kiroilua tai alatyylisiä ilmaisuja
+* linkittää internet-aineistoon, joka ei tue keskustelun aihetta tai on muuten asiaton
+* ei liity keskustelun kohteena olevaan aiheeseen
+* ei ole välttämättä lainvastainen, mutta on jotain henkilöä tai henkilöryhmää loukkaava
+* sisältää kaupallisia viestejä
+* sisältää toisen yksityishenkilön henkilö- tai yhteystietoja.
 
 ### Yhteys ylläpitoon
 

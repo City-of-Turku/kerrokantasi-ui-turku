@@ -39,7 +39,9 @@ De som övervakar tjänsten har rätt att radera och redigera meddelanden. Åbo 
 Meddelanden ska iaktta god diskussionssed och anknyta till diskussionstemat.  Ett meddelande raderas om det strider mot Finlands lagstiftning.
 
 Ett lagstridigt meddelande, till exempel
-* kränker en annan persons ära, sprider information som gäller en annan persons integritet eller sprider sekretessbelagda uppgifter
+* kränker en annan persons ära
+* sprider information som gäller en annan persons integritet
+* sprider sekretessbelagda uppgifter
 * hetsar mot folkgrupp och anstiftar ett brott
 
 Ett osakligt meddelande kan raderas eller redigeras. Det avgörs från fall till fall om ett meddelande är osakligt eller inte hänför sig till diskussionstemat.
