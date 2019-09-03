@@ -45,8 +45,11 @@ The city of Turku reserves itself the right to use messages published in the ser
 The messages in the service must follow good customs of conversation and must relate to the topic at issue. The message is removed if it is defined as illegal by Finland’s legislation.
 
 An illegal message for example:
-* defames someone’s character spreads information concerning another person’s privacy spreads confidential information
-* incites to hatred provokes crime
+* defames someone’s character
+* spreads information concerning another person’s privacy
+* spreads confidential information
+* incites to hatred
+* provokes crime
 
 An inappropriate message can be removed or edited. The inappropriateness or irrelevance of the message is decided on a case-by-case basis.
 
