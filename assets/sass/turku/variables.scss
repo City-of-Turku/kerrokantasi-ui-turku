@@ -33,7 +33,7 @@ $theme-info:          $turku-primary-blue;
 $theme-info-light:    scale-color($theme-info, $lightness: 70%);
 $theme-warning:       $turku-complementary-orange;
 $theme-warning-light: scale-color($theme-warning, $lightness: 30%);
-$theme-danger:        $kiss-my-turku-red;
+$theme-danger:        darken($kiss-my-turku-red, 3%);
 $theme-danger-light:  scale-color($theme-danger, $lightness: 40%);
 
 $theme-primary-dark:    $turku-primary-blue;
