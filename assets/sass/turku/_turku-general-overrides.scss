@@ -3,10 +3,16 @@
 a:focus,
 button:focus,
 .btn:focus,
-.Select.is-focused:not(.is-open) > .Select-control {
+.Select.is-focused:not(.is-open) > .Select-control,
+.dropdown-menu > .active > a:focus {
   outline: 3px solid;
   outline-offset: 0;
   outline-color: #00375e;
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > .active > a:hover {
+  text-decoration: underline;
 }
 
 .site-footer,
