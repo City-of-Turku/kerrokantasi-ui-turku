@@ -49,7 +49,7 @@ Följande innehåll och/eller funktioner är inte tillgängliga på grund av und
 
 ## Upptäckte du en tillgänglighetsbrist i vår digitala tjänst? Beskriv den för oss och vi ska göra vårt bästa för att åtgärda den
 
-[Ge tillgänglighetsrespons på detta webbformulär](https://opaskartta.turku.fi/eFeedback/sv/Feedback/87/1047%20)
+[Ge tillgänglighetsrespons på detta webbformulär](https://opaskartta.turku.fi/eFeedback/sv/Feedback/87/1047)
 
 ## Tillsynsmyndigheten
 

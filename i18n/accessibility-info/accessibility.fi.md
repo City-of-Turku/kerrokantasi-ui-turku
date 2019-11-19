@@ -49,7 +49,7 @@ Virheellisten toimintojen korjaukset edellyttävät uuden moduulin rakentamista.
 
 ## Huomasitko saavutettavuuspuutteen digipalvelussamme? Kerro se meille ja teemme parhaamme puutteen korjaamiseksi
 
-[Anna saavutettavuuspalautetta tällä verkkolomakkeella](https://opaskartta.turku.fi/eFeedback/fi/Feedback/87/1047%20)
+[Anna saavutettavuuspalautetta tällä verkkolomakkeella](https://opaskartta.turku.fi/eFeedback/fi/Feedback/87/1047)
 
 ## Valvontaviranomainen
 
