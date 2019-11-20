@@ -49,17 +49,17 @@ Följande innehåll och/eller funktioner är inte tillgängliga på grund av und
 
 ## Upptäckte du en tillgänglighetsbrist i vår digitala tjänst? Beskriv den för oss och vi ska göra vårt bästa för att åtgärda den
 
-[Ge tillgänglighetsrespons på detta webbformulär](https://opaskartta.turku.fi/eFeedback/sv/Feedback/87/1047)
+<a href="https://opaskartta.turku.fi/eFeedback/sv/Feedback/87/1047" target="_blank">Ge tillgänglighetsrespons på detta webbformulär</a>
 
 ## Tillsynsmyndigheten
 
-Kontakta oss om du vill påtala brister i tillgängligheten på vår webbplats. Det kan ta 14 dagar innan du får ett svar. Om du inte är nöjd med det svar du har fått eller inte får något svar alls inom två veckor [kan du lämna in en anmälan om bristande tillgänglighet till Regionförvaltningsverket i Södra Finland](https://www.xn--tillgnglighetskrav-ptb.fi/dina-rattigheter/). På regionförvaltningsverkets webbplats finns det beskrivet hur du kan lämna in en anmälan och hur ärendet behandlas.
+Kontakta oss om du vill påtala brister i tillgängligheten på vår webbplats. Det kan ta 14 dagar innan du får ett svar. Om du inte är nöjd med det svar du har fått eller inte får något svar alls inom två veckor <a href="https://www.xn--tillgnglighetskrav-ptb.fi/dina-rattigheter/" target="_blank">kan du lämna in en anmälan om bristande tillgänglighet till Regionförvaltningsverket i Södra Finland</a>. På regionförvaltningsverkets webbplats finns det beskrivet hur du kan lämna in en anmälan och hur ärendet behandlas.
 
 ### Tillsynsmyndighetens kontaktuppgifter
 
 Regionförvaltningsverket i Södra Finland  
 Enheten för tillgänglighetstillsyn  
-www.tillgänglighetskrav.fi  
+<a href="https://www.tillgänglighetskrav.fi" target="_blank">www.tillgänglighetskrav.fi</a>  
 webbtillganglighet@rfv.fi  
 telefonnummer växeln 0295 016 000
 
