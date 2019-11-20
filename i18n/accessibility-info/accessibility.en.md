@@ -57,7 +57,11 @@ Jos huomaat sivustolla saavutettavuusongelmia, anna ensin palautetta meille eli 
 
 ### Valvontaviranomaisen yhteystiedot
 
-Etelä-Suomen aluehallintovirastoSaavutettavuuden valvonnan yksikköwww.saavutettavuusvaatimukset.fisaavutettavuus(at)avi.fipuhelinnumero vaihde 0295 016 000
+Etelä-Suomen aluehallintovirasto  
+Saavutettavuuden valvonnan yksikkö  
+www.saavutettavuusvaatimukset.fi  
+saavutettavuus(at)avi.fi  
+puhelinnumero vaihde 0295 016 000
 
 ## Teemme jatkuvasti työtä saavutettavuuden parantamiseksi
 

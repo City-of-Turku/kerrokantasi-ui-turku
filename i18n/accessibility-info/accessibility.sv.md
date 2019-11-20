@@ -57,7 +57,11 @@ Kontakta oss om du vill påtala brister i tillgängligheten på vår webbplats. 
 
 ### Tillsynsmyndighetens kontaktuppgifter
 
-Regionförvaltningsverket i Södra FinlandEnheten för tillgänglighetstillsynwww.tillgänglighetskrav.fiwebbtillganglighet@rfv.fitelefonnummer växeln 0295 016 000
+Regionförvaltningsverket i Södra Finland  
+Enheten för tillgänglighetstillsyn  
+www.tillgänglighetskrav.fi  
+webbtillganglighet@rfv.fi  
+telefonnummer växeln 0295 016 000
 
 ## Vi arbetar kontinuerligt med att förbättra den digitala tillgängligheten
 
