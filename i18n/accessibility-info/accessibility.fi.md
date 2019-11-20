@@ -49,7 +49,7 @@ Virheellisten toimintojen korjaukset edellyttävät uuden moduulin rakentamista.
 
 ## Huomasitko saavutettavuuspuutteen digipalvelussamme? Kerro se meille ja teemme parhaamme puutteen korjaamiseksi
 
-[Anna saavutettavuuspalautetta tällä verkkolomakkeella](https://opaskartta.turku.fi/eFeedback/fi/Feedback/87/1047%20)
+[Anna saavutettavuuspalautetta tällä verkkolomakkeella](https://opaskartta.turku.fi/eFeedback/fi/Feedback/87/1047)
 
 ## Valvontaviranomainen
 
@@ -57,7 +57,11 @@ Jos huomaat sivustolla saavutettavuusongelmia, anna ensin palautetta meille eli 
 
 ### Valvontaviranomaisen yhteystiedot
 
-Etelä-Suomen aluehallintovirastoSaavutettavuuden valvonnan yksikköwww.saavutettavuusvaatimukset.fisaavutettavuus(at)avi.fipuhelinnumero vaihde 0295 016 000
+Etelä-Suomen aluehallintovirasto  
+Saavutettavuuden valvonnan yksikkö  
+www.saavutettavuusvaatimukset.fi  
+saavutettavuus(at)avi.fi  
+puhelinnumero vaihde 0295 016 000
 
 ## Teemme jatkuvasti työtä saavutettavuuden parantamiseksi
 

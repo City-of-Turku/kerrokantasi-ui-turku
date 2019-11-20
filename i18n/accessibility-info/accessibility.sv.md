@@ -49,7 +49,7 @@ Följande innehåll och/eller funktioner är inte tillgängliga på grund av und
 
 ## Upptäckte du en tillgänglighetsbrist i vår digitala tjänst? Beskriv den för oss och vi ska göra vårt bästa för att åtgärda den
 
-[Ge tillgänglighetsrespons på detta webbformulär](https://opaskartta.turku.fi/eFeedback/sv/Feedback/87/1047%20)
+[Ge tillgänglighetsrespons på detta webbformulär](https://opaskartta.turku.fi/eFeedback/sv/Feedback/87/1047)
 
 ## Tillsynsmyndigheten
 
@@ -57,7 +57,11 @@ Kontakta oss om du vill påtala brister i tillgängligheten på vår webbplats. 
 
 ### Tillsynsmyndighetens kontaktuppgifter
 
-Regionförvaltningsverket i Södra FinlandEnheten för tillgänglighetstillsynwww.tillgänglighetskrav.fiwebbtillganglighet@rfv.fitelefonnummer växeln 0295 016 000
+Regionförvaltningsverket i Södra Finland  
+Enheten för tillgänglighetstillsyn  
+www.tillgänglighetskrav.fi  
+webbtillganglighet@rfv.fi  
+telefonnummer växeln 0295 016 000
 
 ## Vi arbetar kontinuerligt med att förbättra den digitala tillgängligheten
 
