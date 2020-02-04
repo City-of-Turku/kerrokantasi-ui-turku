@@ -1,0 +1,29 @@
+.cookieConsent {
+    background: rgb(53, 53, 53);
+    color: $white;
+    box-shadow: initial;
+    border-top: initial;
+
+    :focus {
+      outline-style: solid;
+      outline-width: 3px;
+      outline-color: $white;
+    }
+  
+    .cookie-content {
+        #cookiebar-link {
+          color: $white;
+        }
+    }
+  
+    #cookie-accept-button {
+      background: #ffc233;
+      color: $black;
+      border: 1px solid $black;
+    }
+  
+    #cookie-decline-button {
+      background: #ed1a3b;
+      color: $black;
+    }
+  }

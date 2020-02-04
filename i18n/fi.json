@@ -1,8 +1,9 @@
 {
   "commentConditions": "Annetut kommentit julkaistaan {linkToDefinition} Turun kaupungin palvelussa {linkToLicense}. Tekstejä voidaan muokata loukkaavan tai muutoin törkeän kielenkäytön osalta.",
-    "fullscreenHeaderLogoAlt": "Turku logo",
-    "footerLogoAlt": "Turku logo",
-    "headerLogoAlt": "Turku logo",
-    "copyrightText": "Turun kaupunki",
-    "footerCityLink": "www.turku.fi"
+  "cookieBar.link.href": "https://kerrokantasi.turku.fi/cookie-policy/info-fi.html",
+  "fullscreenHeaderLogoAlt": "Turku logo",
+  "footerLogoAlt": "Turku logo",
+  "headerLogoAlt": "Turku logo",
+  "copyrightText": "Turun kaupunki",
+  "footerCityLink": "www.turku.fi"
 }
