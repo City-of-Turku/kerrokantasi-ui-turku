@@ -1,0 +1,150 @@
+
+// HIGH-CONTRAST STUFF STARTS
+.high-contrast {
+  nav:first-child {
+    border-bottom: 1px solid $black;
+  }
+  nav:last-child {
+    background-color: $white;
+    color: $black;
+    border-bottom: 1px solid $black;
+    .navbar-brand,
+    .nav-item a{
+      color: $black;
+      &:hover::after{
+        border-color: $black;
+      }
+      &:focus {
+        outline-color: $black;
+      }
+    }
+
+    .navbar-nav > .active > a:hover,
+    .navbar-nav > .active > a::after{
+      color:$black;
+      border-color: $black;
+    }
+
+
+  }
+
+  main {
+    // Etusivu - home
+    .welcome-content {
+      background-color: $white;
+      color: $black;
+      text-shadow: none;
+    }
+
+    .page-section {
+      &--hearing-card {
+        .fullwidth {
+          &-hearing{
+            border: 1px solid $black;
+            box-shadow: none;
+            &-times {
+              color: $black;
+            }
+          }
+        }
+      }
+
+      .list {
+        .hearing-card {
+          border: 1px solid $black;
+          &-time {
+            color: $black;
+          }
+        }
+        .text-center {
+          .btn-default {
+            border-color: $black;
+          }
+        }
+      }
+    }
+
+
+  }
+  // Kuulemiset - Hearings
+  .hearings {
+    .page-section {
+      &--hearings {
+        &-search {
+          .form-control, .Select-control {
+            border-color: $black;
+            color: $black;
+          }
+        }
+      }
+    }
+
+    #hearings-section {
+      .hearing-list {
+        &__result-controls {
+          .form-control {
+            border-color: $black;
+            color: $black;
+          }
+        }
+        &__hearing-list-title {
+          color: $black;
+        }
+        &-item {
+          border: 1px solid $black;
+          box-shadow: none;
+
+          &-times {
+            color: $black;
+          }
+        }
+      }
+    }
+  }
+  // Hearing
+  .hearing-page {
+
+    .header-section {
+      background-color: $white;
+      border-bottom: 1px solid $black;
+    }
+
+    .hearing-content-section.main {
+
+      #comments-section {
+
+        .comment-form {
+          &__select-file > .custom-file-input + label {
+            border-color: $black;
+          }
+
+          .comment-buttons {
+            .btn-default {
+              border-color: $black;
+            }
+          }
+        }
+
+        .form-control {
+          border-color: $black;
+          color: $black;
+        }
+
+        .sortable-comment-list {
+          background-color: $white;
+          border: 1px solid $black;
+
+          .hearing-comment {
+            border: 1px solid $black;
+
+            &-date {
+              color: $black;
+            }
+          }
+
+        }
+      }
+    }
+  }
+}
+// HIGH-CONTRAST STUFF ENDS
