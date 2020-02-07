@@ -30,3 +30,9 @@ Production installation:
 Place the original favicon image (512px by 512px) in /assets/favicon/turku-favicon-orig.png
 
 Run: `yarn build-favicons`
+
+## Adding tracking code
+
+City specific tracking/analytics code such as Matomo or Piwik must be added directly
+ in `kerrokantasi-ui` project under `/assets/js/tracker` folder. Currently this 
+ project's `urls.json`'s analytics url points to path `/assets/js/tracker/matomo.js`.
