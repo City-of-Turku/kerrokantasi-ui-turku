@@ -1,6 +1,7 @@
 
 // HIGH-CONTRAST STUFF STARTS
 .high-contrast {
+  // HEADER
   nav:first-child {
     border-bottom: 1px solid $black;
   }
@@ -70,17 +71,57 @@
   .hearings {
     .page-section {
       &--hearings {
+        // SEARCH FIELD
         &-search {
+          // SEARCH TEXT
           .form-control, .Select-control {
             border-color: $black;
             color: $black;
           }
+
+          .btn {
+            background-color: $white;
+            color: $black;
+            border-color: $black;
+          }
+          // SEARCH LABEL
+          .Select--multi {
+            .Select-value {
+              color: $black !important;
+              background-color: $white;
+              border-color: $black;
+              &-icon {
+                border-color: $black;
+                &:hover {
+                  color: $black;
+                  background-color: $white;
+                }
+              }
+            }
+            .Select-menu-outer {
+              .Select-option, .Select-option.is-focused {
+                color: $black;
+                background-color: $white;
+              }
+              .Select-option.is-focused {
+                border: 1px solid $black;
+
+              }
+            }
+          }
+        }
+        // TAB
+        &-tabs {
+          a {
+            color: black;
+          }
         }
       }
     }
-
+    // HEARINGS LIST
     #hearings-section {
       .hearing-list {
+        // TOP - RESULT CONTROLS
         &__result-controls {
           .form-control {
             border-color: $black;
@@ -90,6 +131,7 @@
         &__hearing-list-title {
           color: $black;
         }
+        // HEARING ITEM
         &-item {
           border: 1px solid $black;
           box-shadow: none;
@@ -103,14 +145,29 @@
   }
   // Hearing
   .hearing-page {
-
+    // HEADER
     .header-section {
       background-color: $white;
       border-bottom: 1px solid $black;
     }
 
-    .hearing-content-section.main {
+    // MAIN SECTION - SUBSECTION
+    .hearing-content-section.main,
+    .hearing-content-section.subsection {
+      .btn {
+        background-color: $white;
+        color: $black;
+        border-color: $black;
 
+        &:hover {
+          outline: 3px solid;
+          outline-offset: 0;
+          outline-color: $black;
+        }
+
+      }
+
+      // COMMENTS SECTION
       #comments-section {
 
         .comment-form {
@@ -119,7 +176,7 @@
           }
 
           .comment-buttons {
-            .btn-default {
+            .btn {
               border-color: $black;
             }
           }
@@ -142,6 +199,22 @@
             }
           }
 
+        }
+      }
+    }
+
+    // SUB SECTION
+    .hearing-content-section.subsection {
+
+      .hearing-subsection-title {
+        &-counter {
+          color: $black;
+        }
+      }
+      .section-browser {
+        .pager > li > a {
+          color: $black;
+          border-color: $black;
         }
       }
     }
