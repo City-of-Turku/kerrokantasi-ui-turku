@@ -4,6 +4,10 @@
   // HEADER
   nav:first-child {
     border-bottom: 1px solid $black;
+
+    .dropdown-menu > .active > a {
+      background-color: $black;
+    }
   }
   nav:last-child {
     background-color: $white;
@@ -25,8 +29,6 @@
       color:$black;
       border-color: $black;
     }
-
-
   }
 
   main {
@@ -60,12 +62,17 @@
         .text-center {
           .btn-default {
             border-color: $black;
+            background-color: $black;
+            color: $white;
+            &:hover {
+              outline: 3px solid;
+              outline-offset: 0;
+              outline-color: $black;
+            }
           }
         }
       }
     }
-
-
   }
   // Kuulemiset - Hearings
   .hearings {
@@ -78,10 +85,9 @@
             border-color: $black;
             color: $black;
           }
-
           .btn {
-            background-color: $white;
-            color: $black;
+            background-color: $black;
+            color: $white;
             border-color: $black;
           }
           // SEARCH LABEL
@@ -105,7 +111,6 @@
               }
               .Select-option.is-focused {
                 border: 1px solid $black;
-
               }
             }
           }
@@ -155,8 +160,8 @@
     .hearing-content-section.main,
     .hearing-content-section.subsection {
       .btn {
-        background-color: $white;
-        color: $black;
+        background-color: $black;
+        color: $white;
         border-color: $black;
 
         &:hover {
@@ -164,33 +169,33 @@
           outline-offset: 0;
           outline-color: $black;
         }
-
       }
 
       // COMMENTS SECTION
       #comments-section {
 
-        .comment-form {
-          &__select-file > .custom-file-input + label {
-            border-color: $black;
-          }
-
-          .comment-buttons {
-            .btn {
-              border-color: $black;
-            }
-          }
-        }
-
-        .form-control {
-          border-color: $black;
-          color: $black;
-        }
-
         .sortable-comment-list {
           background-color: $white;
           border: 1px solid $black;
 
+          .comment-form {
+            &__select-file > .custom-file-input + label {
+              border-color: $black;
+            }
+            .form-control {
+              border-color: $black;
+              color: $black;
+            }
+            .comment-buttons {
+              .btn {
+                border-color: $black;
+              }
+            }
+          }
+          #sort-select.form-control {
+            background-color: $white;
+            color: $black;
+          }
           .hearing-comment {
             border: 1px solid $black;
 
@@ -198,7 +203,6 @@
               color: $black;
             }
           }
-
         }
       }
     }
@@ -213,8 +217,19 @@
       }
       .section-browser {
         .pager > li > a {
-          color: $black;
+          color: $white;
           border-color: $black;
+          background-color: $black;
+          &:hover {
+            outline: 3px solid;
+            outline-offset: 0;
+            outline-color: $black;
+          }
+        }
+        .pager > li.disabled > span {
+          background-color: $black;
+          color: $white;
+          opacity: 0.65;
         }
       }
     }
