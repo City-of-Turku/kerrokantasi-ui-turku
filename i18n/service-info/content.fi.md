@@ -59,6 +59,10 @@ Asiaton viesti esimerkiksi:
 
 Jos huomaat kommenttipalstan mielipiteissä asiatonta tekstiä, voit lähettää siitä ilmoituksen Turun kaupungin palautepalvelun kautta.
 
-## Linkit
+## Tietosuojaseloste
 
-* [Turun kaupungin rekisteriseloste](https://rekisteri.turku.fi/Saabe_data/)
+Tietoa Turun kaupungin henkilötietojen käsittelystä sekä tämän palvelun rekisteriselosteet löydät alla olevista osoitteista.
+* [www.turku.fi/tietosuoja](https://www.turku.fi/tietosuoja)
+* [rekisteri.turku.fi](https://rekisteri.turku.fi) (Kerrokantasi -palvelu)
+
+Vahvaan tunnistautumiseen käytämme [Suomi.fi](https://www.suomi.fi)-tunnistusta jonka tietosuojaselosteen löydät osoitteesta [www.suomi.fi/ohjeet-ja-tuki/yleista-verkkopalvelusta/tietosuoja](https://www.suomi.fi/ohjeet-ja-tuki/yleista-verkkopalvelusta/tietosuoja).

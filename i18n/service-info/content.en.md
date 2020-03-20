@@ -64,5 +64,9 @@ An inappropriate message for example:
 ### Contact the administration
 If you notice inappropriate content among the opinions on the comment thread you can make an announcement using the city of Turku’s feedback service.
 
-## Links
-* [Register description of the city of Turku](https://rekisteri.turku.fi/Saabe_data) (in Finnish)
+## Privacy Policy
+You will find information about the usage of the personal information of the City of Turku and about the privacy policy of this service in the addresses below.
+* [www.turku.fi/en/turku-info/privacy-policy](https://www.turku.fi/en/turku-info/privacy-policy)
+* [rekisteri.turku.fi](https://rekisteri.turku.fi) Please find a description (in Finnish) of the client register associated with the Kerrokantasi service (Voice Your Opinion) in the following address under the title 'Kerrokantasi -palvelu'.
+
+We use the [Suomi.fi](https://www.suomi.fi/frontpage) webservice for the strong identification. Please find the privacy statement of the service in the following address [www.suomi.fi/instructions-and-support/general-information-on-the-web-service/data-protection](https://www.suomi.fi/instructions-and-support/general-information-on-the-web-service/data-protection).
