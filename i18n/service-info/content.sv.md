@@ -58,6 +58,9 @@ Ett osakligt meddelande, till exempel
 
 Om du upptäcker osakliga inslag i kommentarer kan du göra en anmälan av dem via Åbo stads feedbacktjänst.
 
-## Länkar
+## Dataskyddsbeskrivning
+Information om hur Åbo stad behandlar personuppgifter samt registerbeskrivningarna för denna tjänst hittar du på adresserna nedan.
+* [www.turku.fi/sv/information-om-abo/datasekretess](https://www.turku.fi/sv/information-om-abo/datasekretess)
+* [rekisteri.turku.fi](https://rekisteri.turku.fi) (Kerrokantasi - Tjänsten Din åsikt. Sidan finns enbart på finska)
 
-* [Åbo stads registerbeskrivning](https://rekisteri.turku.fi/Saabe_data/)
+För stark autentisering använder vi [Suomi.fi](https://www.suomi.fi/hemsidan) -identifiering vars dataskyddsbeskrivning finns på adressen [www.suomi.fi/anvisningar-och-stod/allmant-om-webbtjansten/dataskydd](https://www.suomi.fi/anvisningar-och-stod/allmant-om-webbtjansten/dataskydd).
