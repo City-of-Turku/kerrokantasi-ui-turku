@@ -1,7 +1,9 @@
 {
   "hostname": "https://kerrokantasi.turku.fi",
   "privacyPolicy": "https://rekisteri.turku.fi/Saabe_data",
-  "feedback": "https://opaskartta.turku.fi/eFeedback/",
+  "feedbackEN": "https://opaskartta.turku.fi/eFeedback/en/Feedback/30/1121",
+  "feedbackFI": "https://opaskartta.turku.fi/eFeedback/fi/Feedback/30/1121",
+  "feedbackSV": "https://opaskartta.turku.fi/eFeedback/sv/Feedback/30/1121",
   "rasterMapTiles": "https://maptiles.turku.fi/styles/hel-osm-bright/{z}/{x}/{y}@2x.png",
   "highContrastRasterMapTiles": "https://maptiles.turku.fi/styles/hel-osm-high-contrast/{z}/{x}/{y}.png",
   "city": "http://www.turku.fi",
