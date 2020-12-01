@@ -1,6 +1,7 @@
 {
   "commentConditions": "Annetut kommentit julkaistaan {linkToDefinition} Turun kaupungin palvelussa {linkToLicense}. Tekstejä voidaan muokata loukkaavan tai muutoin törkeän kielenkäytön osalta.",
   "cookieBar.link.href": "https://kerrokantasi.turku.fi/cookie-policy/info-fi.html",
+  "descriptionTag": "Turun kaupungin Kerrokantasi-palvelussa kaupunkilaisilta kerätään mielipiteitä valmistelussa olevista asioista.",
   "fullscreenHeaderLogoAlt": "Turku logo",
   "footerLogoAlt": "Turku logo",
   "headerLogoAlt": "Turku logo",
