@@ -21,3 +21,32 @@ button:focus,
     outline-color: #fff;
   }
 }
+
+.hearing-section {
+  h2 {
+    .hearing-section-toggle-button {
+      &:hover,
+      &:focus {
+        span:not(.fa) {
+          color: $link-hover-color;
+          text-decoration: none ;
+          outline: 3px solid;
+          outline-offset: 2px;
+          outline-color: #00375e;
+        }
+      }
+    }
+  }
+.section-card-title {
+    display: inline-block;
+    
+    &:hover,
+    &:focus {
+      color: $link-hover-color;
+      text-decoration: none ;
+      outline: 3px solid;
+      outline-offset: 0px;
+      outline-color: #00375e;        
+    }
+  }
+}
