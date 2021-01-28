@@ -24,19 +24,43 @@ button:focus,
 
 .hearing-section {
   h2 {
-    .hearing-section-toggle-button {
+    .hearing-section-toggle-button:not(#hearing-section-project-accordion-button) {
       &:hover,
       &:focus {
-        span:not(.fa) {
-          color: $link-hover-color;
-          text-decoration: none ;
-          outline: 3px solid;
-          outline-offset: 2px;
-          outline-color: #00375e;
+          > span:not(.fa) {
+            color: $link-hover-color;
+            text-decoration: none;
+            outline: 3px solid;
+            outline-offset: 2px;
+            outline-color: #00375e;
         }
       }
     }
+    #hearing-section-project-accordion-button {
+      @media (max-width: 576px) {
+        display: inline-grid;
+      }
+
+      &:hover,
+      &:focus {
+        > span:not(.hearing-section-toggle-button-subtitle) {
+          color: $link-hover-color;
+          text-decoration: none;
+          outline: 3px solid;
+          outline-offset: 2px;
+          outline-color: #00375e;
+          
+          span {
+            text-decoration: none;
+          }
+        }
+      }
+      .fa {
+        position: absolute;
+      }
+    }
   }
+
 .section-card-title {
     display: inline-block;
     
