@@ -1,6 +1,6 @@
-# Välkommen, det här är Åbo stads tillgänglighetsutlåtande för Kerro kantasi
+# Åbo stads tillgänglighetsutlåtande för Kerrokantasi/Säg din åsikt
 
-Detta tillgänglighetsutlåtande gäller https://kerrokantasi.turku.fi och har upprättats 08.11.2019. Eficode har utvärderat denna digitala tjänsts tillgänglighet.
+Detta tillgänglighetsutlåtande gäller <a href="https://kerrokantasi.turku.fi">https://kerrokantasi.turku.fi</a> och har upprättats 22.03.2021. Eficode har utvärderat denna digitala tjänsts tillgänglighet.
 
 ## Tillgänglighetsstatus för den digitala tjänsten
 
@@ -10,9 +10,7 @@ Uppfyller de kritiska tillgänglighetskraven
 
 ### Hanterbar
 
-**Innehåll som inte är tillgängligt och dess brister**
-
-När det gäller språknamnen i menyn för språkbyte ska man i princip ange det språk som separat används i namnet. Valet av språk och den liknande funktionen för att logga ut har också genomförts med attributen role=menu. Då används tangentbordet med en annan logik än när det gäller resten av innehållet - Ändringen av navigationslogiken är i praktiken besvärlig på grund av en enskild länk. Beroende på webbläsaren fungerar gillandet av åsikter, dvs. ”att ge tummen upp”, inte optimalt med alla kombinationer av webbläsare och skärmläsare.
+Beroende på webbläsaren fungerar gillandet av åsikter, dvs. ”att ge tummen upp”, inte optimalt med alla kombinationer av webbläsare och skärmläsare.
 
 **Tillgänglighetskrav som inte uppfylls**
 
@@ -20,9 +18,7 @@ När det gäller språknamnen i menyn för språkbyte ska man i princip ange det
 
 ### Begriplig
 
-**Innehåll som inte är tillgängligt och dess brister**
-
-När det gäller språknamnen i menyn för språkbyte ska man i princip ange det språk som separat används i namnet. Valet av språk och den liknande funktionen för att logga ut har också genomförts med attributen role=menu. Då används tangentbordet med en annan logik än när det gäller resten av innehållet - Ändringen av navigationslogiken är i praktiken besvärlig på grund av en enskild länk. När en kommentar skickas passiveras sändknappen tills de obligatoriska fälten har fyllts i. Med tanke på en tydlig responsgivning (där felet ligger) rekommenderas detta sätt varken ur tillgänglighets- eller användbarhetssynvinkel.
+När en kommentar skickas passiveras sändknappen tills de obligatoriska fälten har fyllts i. Med tanke på en tydlig responsgivning (där felet ligger) rekommenderas detta sätt varken ur tillgänglighets- eller användbarhetssynvinkel.
 
 **Tillgänglighetskrav som inte uppfylls**
 
@@ -31,23 +27,21 @@ När det gäller språknamnen i menyn för språkbyte ska man i princip ange det
 
 ### Robust
 
-**Innehåll som inte är tillgängligt och dess brister**
-
 På grund av testmiljön har kodens validitet inte granskats på ett heltäckande sätt. Inga betydande brister upptäcktes dock till den del som den granskades.
 
 **Tillgänglighetskrav som inte uppfylls**
 
 - 4.1.1 Parsing
 
-### **Anledning till att det/de inte uppfylls**
+## **Anledning till att det/de inte uppfylls**
 
-Oproportionell börda
+**Oproportionell börda**
 
-**Motivera varför du åberopar oproportionell börda. Ange också inom vilken tid bristerna kommer att åtgärdas. På vilket annat sätt får användaren tillgång till informationen/tjänsten?**
+Bristerna orsakar problem i användbarheten och tillgängligheten, men hindrar inte användningen av tjänsten eller tillgången till information. Behoven beaktas i mån av möjlighet när tjänsten vidareutvecklas i samarbete med andra städer.
 
-Följande innehåll och/eller funktioner är inte tillgängliga på grund av undantaget om oproportionell börda som avses i artikel 5 i direktiv (EU) 2016/2102 och som tillfälligt åberopas för dem. När det gäller de felaktiga funktionerna 1, 2 och 4 förutsätter reparationerna att en ny modul byggs upp. Bristerna orsakar problem i användbarheten och tillgängligheten, men hindrar inte användningen av tjänsten eller tillgången till information. Behoven beaktas i mån av möjlighet när tjänsten vidareutvecklas i samarbete med andra städer.
+## Upptäckte du en tillgänglighetsbrist i vår digitala tjänst?
 
-## Upptäckte du en tillgänglighetsbrist i vår digitala tjänst? Beskriv den för oss och vi ska göra vårt bästa för att åtgärda den
+Beskriv den för oss och vi ska göra vårt bästa för att åtgärda den
 
 <a href="https://opaskartta.turku.fi/eFeedback/sv/Feedback/87/1047" target="_blank">Ge tillgänglighetsrespons på detta webbformulär</a>
 
@@ -60,25 +54,25 @@ Kontakta oss om du vill påtala brister i tillgängligheten på vår webbplats. 
 Regionförvaltningsverket i Södra Finland  
 Enheten för tillgänglighetstillsyn  
 <a href="https://www.tillgänglighetskrav.fi" target="_blank">www.tillgänglighetskrav.fi</a>  
-webbtillganglighet@rfv.fi  
+<a href="mailto:webbtillganglighet@rfv.fi"> webbtillganglighet@rfv.fi</a>  
 telefonnummer växeln 0295 016 000
 
 ## Vi arbetar kontinuerligt med att förbättra den digitala tillgängligheten
 
-**Det har gjorts en tillgänglighetsgranskning av vår digitala tjänst**
+**Det har gjorts en tillgänglighetsgranskning av vår digitala tjänst.**
 
-**Vi har förbundit oss vid att förbättra tillgängligheten till den digitala tjänsten**
+**Vi har förbundit oss vid att förbättra tillgängligheten till den digitala tjänsten.**
 
-Åbo stads kunskaper i tillgänglighet utvecklas systematiskt och målmedvetet. Stadens ramavtalsleverantörer inom tillgänglighet kommer att utvärdera stadens befintliga webbtjänster. På basis av utvärderingen utvecklas tjänsternas tillgänglighet till den nivå som lagen kräver inom den utsatta tiden för varje tjänst. Vid utvecklingen och upphandlingen av nya webbtjänster beaktas tillgängligheten ända från början. Tillgänglighetsutbildning ordnas till alla parter som deltar i utvecklingen av webbtjänster och i innehållsproduktionen. I staden pågår ett projekt för att uppnå kraven i tillgänglighetslagen.
+Åbo stads kunskaper i tillgänglighet utvecklas systematiskt och målmedvetet. Stadens ramavtalsleverantörer inom tillgänglighet utvärderar stadens befintliga webbtjänster. På basis av utvärderingen utvecklas tjänsternas tillgänglighet till den nivå som lagen kräver. Vid utvecklingen och upphandlingen av nya webbtjänster beaktas tillgängligheten ända från början. Tillgänglighetsutbildning ordnas till alla parter som deltar i utvecklingen av webbtjänster och i innehållsproduktionen.
 
 **Vi erbjuder hjälp och stöd för de användare för vilka den digitala tjänsten inte är tillgänglig**
 
 vid följande av Åbo stads samservicekontor:
 
-- Monitori i Skansen (Skansgatan 10, 20730 Åbo, telefon 040 160 4556)
-- Monitori som ska öppnas vid salutorget (Auragatan 8, 20100 Åbo) och
+- <a href="https://www.turku.fi/sv/kontor/samservicekontoret-monitori-kopcentrumet-skanssi" target="_blank">Monitori i Skansen</a> (Skansgatan 10, 20730 Åbo, telefon 040 160 4556)
+- <a href="https://www.turku.fi/sv/kontor/salutorgets-monitori" target="_blank">salutorgets Monitori</a> (Auragatan 8, 20100 Åbo, telefon 02 262 0100) och
 - biblioteken, där det är möjligt att få digitalt stöd.
 
-**Denna webbplats/applikation har publicerats**
+**Denna webbservicen har publicerats**
 
 21.11.2019

@@ -1,6 +1,6 @@
-# Tervetuloa, tämä on Turun kaupungin Kerro kantasi -palvelun saavutettavuusseloste
+# Turun kaupungin Kerrokantasi-palvelun saavutettavuusseloste
 
-Tämä saavutettavuusseloste koskee https://kerrokantasi.turku.fi ja on laadittu 08.11.2019. Tämän digipalvelun saavutettavuuden on arvioinut Eficode.
+Tämä saavutettavuusseloste koskee palvelua osoitteessa <a href="https://kerrokantasi.turku.fi">https://kerrokantasi.turku.fi</a> ja on laadittu 22.03.2021. Tämän digipalvelun saavutettavuuden on arvioinut Eficode.
 
 ## Digipalvelun saavutettavuuden tila
 
@@ -10,9 +10,7 @@ Täyttää kriittiset saavutettavuusvaatimukset
 
 ### Hallittava
 
-**Saavuttamaton sisältö ja sen puutteet**
-
-Kieli-valikon kielten nimien osalta tulisi merkitä erikseen nimessä käytetty kieli. Kielivalinta ja samankaltainen kirjaudu ulos -toiminnallisuus on myös toteutettu role=menu attribuuteilla. Tällöin niiden näppäimistökäyttölogiikka poikkeaa muusta sisällöstä - Siirtymä navigaatiologikassa on käytännössä vaivalloinen yksittäisen linkin takia. Lisäksi selaimesta riippuen mielipiteen kannattaminen ns. ”peukutus” ei toimi optimaalisesti kaikilla selain ja ruudunlukuohjelmayhdistelmillä.
+Selaimesta riippuen mielipiteen kannattaminen ns. ”peukutus” ei toimi optimaalisesti kaikilla selain ja ruudunlukuohjelmayhdistelmillä.
 
 **Saavutettavuusvaatimukset jotka eivät täyty**
 
@@ -20,18 +18,13 @@ Kieli-valikon kielten nimien osalta tulisi merkitä erikseen nimessä käytetty 
 
 ### Ymmärrettävä
 
-**Saavuttamaton sisältö ja sen puutteet**
-
-Kieli-valikon kielten nimien osalta tulisi merkitä erikseen nimessä käytetty kieli. Kielivalinta ja samankaltainen kirjaudu ulos -toiminnallisuus on myös toteutettu role=menu attribuuteilla. Tällöin niiden näppäimistökäyttölogiikka poikkeaa muusta sisällöstä - Siirtymä navigaatiologikassa on käytännössä vaivalloinen yksittäisen linkin takia. Kommenttia lähetettäessä lähetyspainike passivoidaan, kunnes vaaditut kentät on täytetty. Tapa ei ole suositeltava selkeän palautteen annon kannalta (missä virhe on) sen paremmin saavutettavuus- kuin käytettävyys mielessäkään.
+Kommenttia lähetettäessä lähetyspainike passivoidaan, kunnes vaaditut kentät on täytetty. Tapa ei ole suositeltava selkeän palautteen annon kannalta (missä virhe on) sen paremmin saavutettavuus kuin käytettävyys mielessäkään.
 
 **Saavutettavuusvaatimukset jotka eivät täyty**
 
-- 3.1.1 Sivun kieli
 - 3.3.1 Virheen tunnistaminen
 
 ### Toimintavarma
-
-**Saavuttamaton sisältö ja sen puutteet**
 
 Koodin validiutta ei käyty testiympäristöstä johtuen kattavasti läpi. Siinä ei kuitenkaan havaittu merkittäviä puutteita siltä osin kuin sitä tarkasteltiin.
 
@@ -39,21 +32,21 @@ Koodin validiutta ei käyty testiympäristöstä johtuen kattavasti läpi. Siin�
 
 - 4.1.1 Jäsentäminen
 
-### **Syy noudattamatta jättämiselle**
+## **Syy noudattamatta jättämiselle**
 
 Kohtuuton rasite
 
-**Kerro perustelut, miksi vetoat kohtuuttomaan rasitteeseen. Kerro myös aikataulu, jossa puutteet korjataan. Kerro kuinka tiedon/palvelun voi saada vaihtoehtoisella tavalla?**
+Puutteet ovat käytettävyys- ja saavutettavuusongelma, mutta eivät estä palvelun käyttöä tai jätä tietoa saavuttamattomiin. Tarpeet huomioidaan mahdollisuuksien mukaan jatkossa kehitettäessä palvelua yhdessä muiden kaupunkien kanssa.
 
-Virheellisten toimintojen korjaukset edellyttävät uuden moduulin rakentamista. Puutteet ovat käytettävyys- ja saavutettavuusongelma, mutta eivät estä palvelun käyttöä tai jätä tietoa saavuttamattomiin. Tarpeet huomioidaan mahdollisuuksien mukaan jatkossa kehitettäessä palvelua yhdessä muiden kaupunkien kanssa.
+## Huomasitko saavutettavuuspuutteen digipalvelussamme?
 
-## Huomasitko saavutettavuuspuutteen digipalvelussamme? Kerro se meille ja teemme parhaamme puutteen korjaamiseksi
+Kerro se meille ja teemme parhaamme puutteen korjaamiseksi
 
 <a href="https://opaskartta.turku.fi/eFeedback/fi/Feedback/87/1047" target="_blank">Anna saavutettavuuspalautetta tällä verkkolomakkeella</a>
 
 ## Valvontaviranomainen
 
-Jos huomaat sivustolla saavutettavuusongelmia, anna ensin palautetta meille eli sivuston ylläpitäjälle. Vastauksessa voi mennä 14 päivää. Jos et ole tyytyväinen saamaasi vastaukseen tai et saa vastausta lainkaan kahden viikon aikana, <a href="https://www.saavutettavuusvaatimukset.fi/oikeutesi/" target="_blank">voit tehdä ilmoituksen Etelä-Suomen aluehallintovirastoon</a>. Etelä-Suomen aluehallintoviraston sivulla kerrotaan tarkasti, miten ilmoituksen voi tehdä ja miten asia käsitellään.
+Jos huomaat sivustolla saavutettavuusongelmia, anna ensin palautetta Turun kaupungille eli sivuston ylläpitäjälle. Vastauksessa voi mennä 14 päivää. Jos et ole tyytyväinen saamaasi vastaukseen tai et saa vastausta lainkaan kahden viikon aikana, <a href="https://www.saavutettavuusvaatimukset.fi/oikeutesi/" target="_blank">voit tehdä ilmoituksen Etelä-Suomen aluehallintovirastoon</a>. Etelä-Suomen aluehallintoviraston sivulla kerrotaan tarkasti, miten ilmoituksen voi tehdä ja miten asia käsitellään.
 
 ### Valvontaviranomaisen yhteystiedot
 
@@ -65,20 +58,20 @@ puhelinnumero vaihde 0295 016 000
 
 ## Teemme jatkuvasti työtä saavutettavuuden parantamiseksi
 
-**Digipalveluistamme on tehty saavutettavuusarviointi**
+**Digipalveluistamme on tehty saavutettavuusarviointi.**
 
-**Olemme sitoutuneet digipalveluiden saavutettavuuden parantamiseen**
+**Olemme sitoutuneet digipalveluiden saavutettavuuden parantamiseen.**
 
-Turun kaupungin saavutettavuusosaamista kehitetään suunnitelmallisesti ja määrätietoisesti. Kaupungin saavutettavuuden puitesopimustoimittajat tulevat arvioimaan kaupungin nykyiset verkkopalvelut. Arvioinnin perusteella palveluiden saavutettavuutta kehitetään lain vaatimalle tasolle kunkin palvelun määräaikaan mennessä. Uusien verkkopalveluiden kehittämisessä ja hankinnassa saavutettavuus huomioidaan alusta lähtien. Saavutettavuuskoulutusta järjestetään kaikille osapuolille, jotka osallistuvat verkkopalveluiden kehittämiseen ja niiden sisältöjen tuottamiseen. Kaupungissa on käynnissä projekti Saavutettavuuslain vaatimusten täyttäminen.
+Turun kaupungin saavutettavuusosaamista kehitetään suunnitelmallisesti ja määrätietoisesti. Kaupungin saavutettavuuden puitesopimustoimittajat ovat arvioineet kaupungin verkko- ja digipalvelut. Arvioinnin perusteella palveluiden saavutettavuutta kehitetään lain vaatimalle tasolle. Uusien verkkopalveluiden kehittämisessä ja hankinnassa saavutettavuus huomioidaan alusta lähtien. Saavutettavuuskoulutusta järjestetään kaikille osapuolille, jotka osallistuvat verkkopalveluiden kehittämiseen ja niiden sisältöjen tuottamiseen. 
 
 **Tarjoamme tukea käyttäjille joille digipalvelut eivät ole saavutettavissa**
 
 Turun kaupungin asiointipisteistä
 
-- Skanssin Monitorissa (Skanssinkatu 10, 20730 Turku, puhelin 040 160 4556) sekä
-- tulevassa kauppatorin Monitorissa (Aurakatu 8, 20100 Turku) ja
+- <a href="https://www.turku.fi/toimipaikat/asiointipiste-monitori-kauppakeskus-skanssi" target="_blank">Skanssin Monitorissa</a> (Skanssinkatu 10, 20730 Turku, puhelin 040 160 4556) sekä
+- <a href="https://www.turku.fi/toimipaikat/kauppatorin-monitori" target="_blank">kauppatorin Monitorissa</a> (Aurakatu 8, 20100 Turku, puhelin 02 262 0100) ja
 - kirjastoissa on mahdollisuus saada digitukea.
 
-**Tämä verkkosivusto/sovellus on julkaistu**
+**Tämä verkkopalvelu on julkaistu**
 
 21.11.2019
