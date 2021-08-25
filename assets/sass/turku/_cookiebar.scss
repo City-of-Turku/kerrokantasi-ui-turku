@@ -1,28 +1,19 @@
-.cookieConsent {
-    background-color: black;
-    color: $white;
-    box-shadow: initial;
-    border-top: initial;
-
-    :focus {
-      outline: $white solid 3px;
-    }
-
-    .cookie-content {
-        #cookiebar-link {
-          color: $white;
-        }
-    }
-
-    #cookie-accept-button {
-      background: #ffd239;
-      color: $black;
-      border: 1px solid #ffd239;
-    }
-
-    #cookie-decline-button {
-      background: #e50064;
-      border-color: #e50064;
-      color: $black;
-    }
+body {
+  #CybotCookiebotDialog .CybotCookiebotDialogBodyLevelButtonSliderWrapper input:focus-visible + span,
+  #CybotCookiebotDialog :focus-visible {
+    outline-offset: 1px;
   }
+  #CybotCookiebotDialog .CybotCookiebotDialogContentWrapper #CybotCookiebotDialogNav :focus-visible {
+    outline-offset: -5px;
+  }
+  #CybotCookiebotDialogPoweredbyImage {
+    max-height: 4em;
+    content:url("https://www.turku.fi/sites/default/files/thumbnails/image/turku_pysty_viiva_black_pelkka_vaakuna_1.png") !important;
+  }
+  #CybotCookiebotDialogHeader {
+    padding: 0.75em;
+  }
+  a#CybotCookiebotDialogPoweredbyCybot {
+    display:none;
+  }
+}
