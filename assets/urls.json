@@ -6,6 +6,6 @@
   "feedbackSV": "https://opaskartta.turku.fi/eFeedback/sv/Feedback/30/1121",
   "rasterMapTiles": "https://maptiles.turku.fi/styles/hel-osm-bright/{z}/{x}/{y}@2x.png",
   "highContrastRasterMapTiles": "https://maptiles.turku.fi/styles/hel-osm-high-contrast/{z}/{x}/{y}.png",
-  "city": "http://www.turku.fi",
-  "analytics": "/assets/js/tracker/matomo.js"
+  "city": "https://www.turku.fi",
+  "analytics": "/assets/js/matomo.js"
 }
