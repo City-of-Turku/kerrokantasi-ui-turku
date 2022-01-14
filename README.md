@@ -17,6 +17,10 @@ Development steps:
         /kerrokantasi-ui-turku
       ```
 2. In the `kerrokantasi-ui` project run `yarn add ../kerrokantasi-ui-turku`
+   1. Once the package has been added, a post-install script will attempt to copy `assets/js/tracker/matomo.js`
+   from `kerrokantasi-ui-turku` into `kerrokantasi-ui` `assets/js/tracker/matomo.js`.
+   The `kerrokantasi-ui` `tracker` folder is created if it doesn't exist and `tracker/matomo.js` is replaced if it already exists.
+   If this script doesn't work then the copy operations must be done manually.
 3. Edit files in `kerrokantasi-ui/node_modules/kerrokantasi-ui-turku` for changes to be reflected
 
 
@@ -36,3 +40,6 @@ Run: `yarn build-favicons`
 City specific tracking/analytics code such as Matomo or Piwik must be added directly
  in `kerrokantasi-ui` project under `/assets/js/tracker` folder. Currently this 
  project's `urls.json`'s analytics url points to path `/assets/js/tracker/matomo.js`.
+
+A post-install(runs after package has been added) script will copy `/assets/js/tracker/matomo.js` directly into `kerrokantasi-ui`
+`/assets/js/tracker` creating the `tracker` folder if it doesn't exist and replacing `matomo.js` if it already exists.
