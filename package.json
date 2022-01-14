@@ -2,6 +2,7 @@
   "name": "kerrokantasi-ui-turku",
   "version": "0.0.1",
   "scripts": {
+    "postinstall": "node ./scripts/copy-matomo.js",
     "build-favicons": "node ./scripts/favicon-generator.js"
   },
   "repository": {
