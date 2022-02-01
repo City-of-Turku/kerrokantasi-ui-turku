@@ -5,5 +5,6 @@
   "footerLogoAlt": "Turku logo",
   "headerLogoAlt": "Turku logo",
   "copyrightText": "Turun kaupunki",
-  "footerCityLink": "www.turku.fi"
+  "footerCityLink": "www.turku.fi",
+  "sectionCommentDeletedMessage": "Viesti on poistettu{date}, koska se ei noudattanut Kerrokantasi-palvelun sääntöjä. https://kerrokantasi.turku.fi/info"
 }

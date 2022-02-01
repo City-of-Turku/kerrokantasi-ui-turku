@@ -5,5 +5,6 @@
   "footerLogoAlt": "Åbo logo",
   "headerLogoAlt": "Åbo logo",
   "copyrightText": "Åbo stad",
-  "footerCityLink": "www.turku.fi"
+  "footerCityLink": "www.turku.fi",
+  "sectionCommentDeletedMessage": "Inlägget har raderats{date}, eftersom det inte följde Säg din åsikt-tjänstens regler. https://kerrokantasi.turku.fi/info?lang=sv"
 }
