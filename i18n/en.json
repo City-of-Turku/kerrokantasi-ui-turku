@@ -5,5 +5,6 @@
   "footerLogoAlt": "City of Turku logo",
   "headerLogoAlt": "City of Turku logo",
   "copyrightText": "City of Turku",
-  "footerCityLink": "www.turku.fi"
+  "footerCityLink": "www.turku.fi",
+  "sectionCommentDeletedMessage": "This message has been deleted on{date}, because it did not comply with the rules of the Voice your opinion service. https://kerrokantasi.turku.fi/info?lang=en"
 }
