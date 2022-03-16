@@ -1,10 +1,17 @@
 {
   "commentConditions": "Uttryckta kommentarer publiceras {linkToDefinition} i Åbo stads tjänst {linkToLicense}. Du kan lämna din kommentar anonymt om du inte har loggat in. Dessutom redigeras texter vid behov på grund av kränkande eller annars osakligt språkbruk.",
+  "comments": "Kommentarer",
+  "commentsOnMap": "Kommentarer på kartan",
+  "commentsOutOf": "Visas {current}/{total} kommentarer.",
+  "defaultClosureInfo": "Det här hörandet har stängts. Det är inte längre möjligt att uttrycka kommentarer eller understöda kommentarer.",
   "descriptionTag": "Åbo stads Kerrokantasi-tjänst tillåter medborgare att vara med i diskussionen och rösta på kommande ärenden.",
+  "downloadReport": "Ladda ner en sammanfattning av kommentarer i Excel-format",
   "fullscreenHeaderLogoAlt": "Åbo logo",
   "footerLogoAlt": "Åbo logo",
   "headerLogoAlt": "Åbo logo",
   "copyrightText": "Åbo stad",
   "footerCityLink": "www.turku.fi",
-  "sectionCommentDeletedMessage": "Inlägget har raderats{date}, eftersom det inte följde Säg din åsikt-tjänstens regler. https://kerrokantasi.turku.fi/info?lang=sv"
+  "sectionCommentDeletedMessage": "Inlägget har raderats{date}, eftersom det inte följde Säg din åsikt-tjänstens regler. https://kerrokantasi.turku.fi/info?lang=sv",
+  "totalSubmittedComment": "Totalt {n} kommentar",
+  "totalSubmittedComments": "Totalt {n} kommentarer"
 }
