@@ -1,4 +1,4 @@
-# Tietoa Kerrokantasi.turku.fi –palvelusta
+# Tietoa kerrokantasi.turku.fi –palvelusta
 
 Kerrokantasi on Turun kaupungin ylläpitämä verkkopalvelu, jossa kuntalaiset voivat kertoa mielipiteensä ja tulla kuulluksi erityyppisistä valmisteluun tulevista tai valmistelussa jo olevista asioista. Mielipiteet ovat muiden nähtävinä ja kommentoitavina, ja niistä tuotetaan raportit ja yhteenvedot valmistelijoiden ja päättäjien käyttöön.
 

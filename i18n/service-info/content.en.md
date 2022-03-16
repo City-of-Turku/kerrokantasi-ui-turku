@@ -1,4 +1,4 @@
-# Information about the Kerrokantasi.turku.fi service
+# Information about the kerrokantasi.turku.fi service
 
 Kerrokantasi is an internet service maintained by the city of Turku for residents to voice their opinions and to be heard in various cases, which are coming, or are already, under preparation. Other can read and leave comments on opinions which will be reported and summarized to be used by preparers and decision makers.
 
