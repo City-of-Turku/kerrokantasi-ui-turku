@@ -1,6 +1,7 @@
 {
   "commentConditions": "All comments will be published {linkToDefinition} in the City of Turku online service {linkToLicense}. If you are not logged in, you may leave an anonymous comment. The comments may be moderated if they contain insulting or offensive language.",
   "descriptionTag": "City of Turku Kerrokantasi service allows citizens to comment and vote on upcoming matters.",
+  "feedbackPrompt": "Please give us feedback on how to improve the service!",
   "fullscreenHeaderLogoAlt": "City of Turku logo",
   "footerLogoAlt": "City of Turku logo",
   "headerLogoAlt": "City of Turku logo",
