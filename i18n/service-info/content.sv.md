@@ -6,7 +6,7 @@ Kommuninvånarna kan följa hur ett ärende som de kommenterat framskrider och b
 
 Tjänsten Din åsikt anknyter till stadens strategi där delaktigheten förutsätts bli en del av planering, genomförande och beslutsfattande med uppgift att säkerställa kvaliteten i beredningen, arbets- och kundtillfredsställelsen och resurseffektiviteten. Enligt 27 § i kommunallagen ska kommunen också se till att kommuninvånarna har möjligheter att delta i och påverka kommunens verksamhet särskilt genom att utreda invånarnas åsikter innan beslut fattas.
 
-För tjänsten svarar Åbo stads koncernförvaltning. Frågor och utvecklingsförslag om tjänsten kan skickas via stadens feedbacktjänst. Feedback kan ges via länken på varje sida.
+För tjänsten svarar Åbo stads koncernförvaltning. Frågor och utvecklingsförslag om tjänsten kan skickas via stadens feedbacktjänst (turku.fi/palaute). 
 
 ## Användarvillkor
 
@@ -22,7 +22,7 @@ Använd inte STORA BOKSTÄVER, för de gör det svårare att uppfatta helheten o
 
 Du ska registrera dig i tjänsten om du som registrerad användare vill understöda (=ge tummen upp) en åsikt som lämnats in. Du ska registrera dig med hjälp av stark autentisering på webbplatsen suomi.fi eller med bibliotekskortets uppgifter.
 
-I lagstadgade uppgifter, t.ex. när det gäller att samla in åsikter och anmärkningar om planläggningen, är det obligatoriskt med stark autentisering.
+I vissa undersökningar är stark identifiering obligatorisk.
 
 ### Skribentens ansvar
 
@@ -36,7 +36,7 @@ De som övervakar tjänsten har rätt att radera och redigera meddelanden. Åbo 
 
 ### Osakliga och lagstridiga meddelanden
 
-Meddelanden ska iaktta god diskussionssed och anknyta till diskussionstemat.  Ett meddelande raderas om det strider mot Finlands lagstiftning.
+Meddelanden ska iaktta god diskussionssed och anknyta till diskussionstemat. Ett meddelande raderas om det strider mot Finlands lagstiftning.
 
 Ett lagstridigt meddelande, till exempel
 * kränker en annan persons ära
