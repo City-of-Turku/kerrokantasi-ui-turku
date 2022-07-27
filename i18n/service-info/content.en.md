@@ -6,7 +6,7 @@ Using the service, residents can follow the progress of the case on which they h
 
 Kerrokantasi service is part of the city’s strategy, where citizen participation is required to become part of planning and realization of services and decision making to ensure the quality of the preparation, work and customer satisfaction and resource efficiency.
 
-The central administration of the city of Turku is responsible for the service. Questions and ideas about development of the service can be sent using the feedback service of the city. 
+The central administration of the city of Turku is responsible for the service. Questions and ideas about development of the service can be sent using the feedback service of the city.
 
 ## Terms of use
 

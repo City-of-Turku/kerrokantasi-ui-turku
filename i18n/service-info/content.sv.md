@@ -6,7 +6,7 @@ Kommuninvånarna kan följa hur ett ärende som de kommenterat framskrider och b
 
 Tjänsten Din åsikt anknyter till stadens strategi där delaktigheten förutsätts bli en del av planering, genomförande och beslutsfattande med uppgift att säkerställa kvaliteten i beredningen, arbets- och kundtillfredsställelsen och resurseffektiviteten. Enligt 27 § i kommunallagen ska kommunen också se till att kommuninvånarna har möjligheter att delta i och påverka kommunens verksamhet särskilt genom att utreda invånarnas åsikter innan beslut fattas.
 
-För tjänsten svarar Åbo stads koncernförvaltning. Frågor och utvecklingsförslag om tjänsten kan skickas via stadens feedbacktjänst (turku.fi/palaute). 
+För tjänsten svarar Åbo stads koncernförvaltning. Frågor och utvecklingsförslag om tjänsten kan skickas via stadens feedbacktjänst (turku.fi/palaute).
 
 ## Användarvillkor
 

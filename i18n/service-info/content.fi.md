@@ -6,7 +6,7 @@ Kuntalaiset voivat seurata palvelun avulla kommentoimansa asian etenemistä ja a
 
 Kerrokantasi-palvelu liittyy kaupungin strategiaan, jossa osallisuuden edellytetään tulevan osaksi palveluiden suunnittelua, toteuttamista ja päätöksentekoa varmistamaan valmistelun laatu, työ- ja asiakastyytyväisyys ja resurssitehokkuus. Lisäksi Kuntalain 27 §:n mukaan kunnan on huolehdittava kuntalaisten edellytyksistä osallistua ja vaikuttaa kunnan toimintaan erityisesti selvittämällä asukkaiden mielipiteitä ennen päätöksentekoa.
 
-Palvelusta vastaa Turun kaupungin konsernihallinto. Palveluun liittyviä kysymyksiä ja kehittämisehdotuksia voi lähettää kaupungin palautepalvelun (turku.fi/palaute) kautta. 
+Palvelusta vastaa Turun kaupungin konsernihallinto. Palveluun liittyviä kysymyksiä ja kehittämisehdotuksia voi lähettää kaupungin palautepalvelun (turku.fi/palaute) kautta.
 
 ## Käyttöehdot
 
