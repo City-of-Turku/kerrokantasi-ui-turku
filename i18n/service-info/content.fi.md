@@ -6,7 +6,7 @@ Kuntalaiset voivat seurata palvelun avulla kommentoimansa asian etenemistä ja a
 
 Kerrokantasi-palvelu liittyy kaupungin strategiaan, jossa osallisuuden edellytetään tulevan osaksi palveluiden suunnittelua, toteuttamista ja päätöksentekoa varmistamaan valmistelun laatu, työ- ja asiakastyytyväisyys ja resurssitehokkuus. Lisäksi Kuntalain 27 §:n mukaan kunnan on huolehdittava kuntalaisten edellytyksistä osallistua ja vaikuttaa kunnan toimintaan erityisesti selvittämällä asukkaiden mielipiteitä ennen päätöksentekoa.
 
-Palvelusta vastaa Turun kaupungin konsernihallinto. Palveluun liittyviä kysymyksiä ja kehittämisehdotuksia voi lähettää kaupungin palautepalvelun kautta. Palautetta voi antaa joka sivulla sijaitsevan palautelaatikon kautta.
+Palvelusta vastaa Turun kaupungin konsernihallinto. Palveluun liittyviä kysymyksiä ja kehittämisehdotuksia voi lähettää kaupungin palautepalvelun (turku.fi/palaute) kautta.
 
 ## Käyttöehdot
 
@@ -16,13 +16,13 @@ Vastaukset tulevat pääsääntöisesti sellaisenaan näkyviin muiden käyttäji
 
 Voit kirjoittaa mielipiteesi suomeksi ja ruotsiksi, mutta myös muita kieliä voi käyttää.
 
-Älä käytä SUURAAKKOSIA, sillä ne hankaloittavat kokonaisuuden luettavuutta ja viestivät huutamista.
+Älä käytä SUURAAKKOSIA, sillä ne hankaloittavat luettavuutta ja viestivät huutamista.
 
 ### Rekisteröityminen
 
 Rekisteröitymistä palveluun vaaditaan, mikäli haluat kirjautuneena käyttäjänä kannattaa (=peukuttaa) annettua mielipidettä. Rekisteröityminen tapahtuu joko vahvalla suomi.fi-tunnistautumisella tai kirjastokortin tiedoilla.
 
-Lakisääteisissä tehtävissä, esimerkiksi kaavoituksen mielipiteiden ja muistutusten keräämisessä, vahva tunnistautuminen on pakollinen.
+Jossain kuulemisissa vahva tunnistautuminen on pakollinen.
 
 ### Kirjoittajan vastuu
 
@@ -30,7 +30,7 @@ Mielipiteen kirjoittamisessa on noudatettava hyviä tapoja ja voimassa olevaa la
 
 ### Keskustelujen valvonta
 
-Palvelua seurataan lähinnä virka-aikana arkisin. Viestejä ei pääsääntöisesti tarkisteta ennakkoon. Voit myös ilmoittaa asiattomista viesteistä palautepalvelun kautta.
+Palvelua seurataan virka-aikana arkisin. Viestejä ei tarkisteta ennakkoon. Voit myös ilmoittaa asiattomista viesteistä palautepalvelun kautta.
 
 Palvelun valvojilla on oikeus poistaa ja muokata viestejä. Turun kaupunki pidättää itselleen oikeuden käyttää palvelussa julkaistuja viestejä muissa yhteyksissä. Turun kaupunki ei ole rikos- ja vahingonkorvausoikeudellisessa vastuussa kirjoitusten sisällöstä.
 
