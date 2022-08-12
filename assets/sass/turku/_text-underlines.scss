@@ -1,0 +1,88 @@
+// home page
+.page-section.page-section--feedback {
+    a.feedback-box {
+        text-decoration: underline;
+    }
+}
+
+// hearing page
+.hearing-header {
+    a {
+        text-decoration: underline;
+    }
+
+    .main-labels a {
+        text-decoration: none;
+    }
+}
+
+.hearing-section.main-content {
+    a {
+        text-decoration: underline;
+    }
+}
+
+.hearing-section.hearing-contacts {
+    .contact-card__information a {
+        text-decoration: underline;
+    }
+}
+
+.hearing-content-section.subsection {
+    a.hearing-subsection-write-comment-link {
+        text-decoration: underline;
+    }
+
+    .lead,
+    .section-content {
+        a {
+            text-decoration: underline;
+        }
+    }
+}
+
+.report-download a {
+    text-decoration: underline;
+}
+
+.comment-form {
+    .comment-conditions a {
+        text-decoration: underline;
+    }
+}
+
+// user profile page
+.user-profile {
+    .commentlist {
+        .hearing-comment-status a {
+            text-decoration: underline;
+        }
+    }
+}
+
+// info page
+.info-page a {
+    text-decoration: underline;
+}
+
+// maps
+.hearing-map,
+.map {
+    .leaflet-container {
+        .leaflet-control-attribution.leaflet-control a {
+            text-decoration: underline;
+        }
+    }
+}
+
+// footer
+.site-footer {
+
+    .footer-city-link,
+    .footer-links,
+    .site-footer-small-print {
+        a {
+            text-decoration: underline;
+        }
+    }
+}
