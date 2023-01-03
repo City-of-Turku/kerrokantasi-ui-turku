@@ -1,3 +1,23 @@
-.commentlist .hearing-comment-user-registered {
-  color: #e50064;
+.commentlist {
+  .hearing-comment-user-registered {
+    color: #e50064;
+  }
+
+  .hearing-comment-body-empty {
+    padding: 0 0 8px 0;
+
+    .empty-comment-text {
+      display: none;
+    }
+  }
+
+  .comment-question-answer-wrapper {
+    .comment-question-answer-icon {
+      margin-right: 8px;
+    }
+
+    .comment-question-answer-text {
+      display: inline;
+    }
+  }
 }
