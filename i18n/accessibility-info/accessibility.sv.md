@@ -39,23 +39,31 @@ På grund av testmiljön har kodens validitet inte granskats på ett heltäckand
 
 Bristerna orsakar problem i användbarheten och tillgängligheten, men hindrar inte användningen av tjänsten eller tillgången till information. Behoven beaktas i mån av möjlighet när tjänsten vidareutvecklas i samarbete med andra städer.
 
-## Upptäckte du en tillgänglighetsbrist i vår digitala tjänst?
+## Upprättande av detta tillgänglighetsutlåtande
 
-Beskriv den för oss och vi ska göra vårt bästa för att åtgärda den
+Detta utlåtande har upprättats 22.03.2021.
 
-<a href="https://opaskartta.turku.fi/eFeedback/sv/Feedback/87/1047" target="_blank">Ge tillgänglighetsrespons på detta webbformulär</a>
+Utlåtandet grundar sig på en utvärdering som utförts av en tredje part om huruvida tjänsten uppfyller kraven i lagen om tillhandahållande av digitala tjänster 306/2019.
+
+Utlåtandet uppdaterades senast 27.07.2026.
+
+## Märkte du en tillgänglighetsbrist i vår digitala tjänst?
+
+Beskriv den för oss och vi ska göra vårt bästa för att åtgärda den.
+
+<a href="https://turku.asiointi.fi/eFeedback/sv/Feedback/48/1118" target="_blank">Tillgänglighetsrespons</a>
 
 ## Tillsynsmyndigheten
 
-Kontakta oss om du vill påtala brister i tillgängligheten på vår webbplats. Det kan ta 14 dagar innan du får ett svar. Om du inte är nöjd med det svar du har fått eller inte får något svar alls inom två veckor <a href="https://www.xn--tillgnglighetskrav-ptb.fi/dina-rattigheter/" target="_blank">kan du lämna in en anmälan om bristande tillgänglighet till Regionförvaltningsverket i Södra Finland</a>. På regionförvaltningsverkets webbplats finns det beskrivet hur du kan lämna in en anmälan och hur ärendet behandlas.
+Kontakta oss om du vill påtala brister i tillgängligheten på vår webbplats. Det kan ta 14 dagar innan du får ett svar. Om du inte är nöjd med det svar du har fått eller inte får något svar alls inom två veckor, kan du ge respons till tillsynsmyndigheten. På webbplatsen Tillgänglighetskrav.fi finns information om hur man kan lämna in ett klagomål och hur ärendet behandlas.
 
 ### Tillsynsmyndighetens kontaktuppgifter
 
-Regionförvaltningsverket i Södra Finland  
-Enheten för tillgänglighetstillsyn  
-<a href="https://www.tillgänglighetskrav.fi" target="_blank">www.tillgänglighetskrav.fi</a>  
-<a href="mailto:webbtillganglighet@rfv.fi"> webbtillganglighet@rfv.fi</a>  
-telefonnummer växeln 0295 016 000
+Transport- och kommunikationsverket Traficom  
+Enheten för tillsyn över digital tillgänglighet  
+<a href="https://www.tillganglighetskrav.fi" target="_blank">www.tillganglighetskrav.fi</a>  
+tillganglighet@traficom.fi  
+telefonnummer växeln 029 534 5000
 
 ## Vi arbetar kontinuerligt med att förbättra den digitala tillgängligheten
 
@@ -67,11 +75,9 @@ telefonnummer växeln 0295 016 000
 
 **Vi erbjuder hjälp och stöd för de användare för vilka den digitala tjänsten inte är tillgänglig**
 
-vid följande av Åbo stads samservicekontor:
+Du kan få digitalt stöd på flera av Åbo stads verksamhetsställen, som Monitori på Salutorget och Åbo stadsbiblioteks huvudbibliotek.
 
-- <a href="https://www.turku.fi/sv/kontor/samservicekontoret-monitori-kopcentrumet-skanssi" target="_blank">Monitori i Skansen</a> (Skansgatan 10, 20730 Åbo, telefon 040 160 4556)
-- <a href="https://www.turku.fi/sv/kontor/salutorgets-monitori" target="_blank">salutorgets Monitori</a> (Auragatan 8, 20100 Åbo, telefon 02 262 0100) och
-- biblioteken, där det är möjligt att få digitalt stöd.
+<a href="https://www.turku.fi/asiointi-ja-yhteystiedot/digituki" target="_blank">Digitalt stöd</a>
 
 **Denna webbservicen har publicerats**
 

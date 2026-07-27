@@ -38,23 +38,31 @@ Kohtuuton rasite
 
 Puutteet ovat käytettävyys- ja saavutettavuusongelma, mutta eivät estä palvelun käyttöä tai jätä tietoa saavuttamattomiin. Tarpeet huomioidaan mahdollisuuksien mukaan jatkossa kehitettäessä palvelua yhdessä muiden kaupunkien kanssa.
 
+## Tämän saavutettavuusselosteen laatiminen
+
+Tämä seloste on laadittu 22.03.2021.
+
+Seloste perustuu kolmannen osapuolen toteuttamaan arviointiin siitä, täyttääkö palvelu Lain digitaalisten palvelujen tarjoamisesta 306/2019 vaatimukset.
+
+Seloste on päivitetty viimeksi 27.07.2026.
+
 ## Huomasitko saavutettavuuspuutteen digipalvelussamme?
 
-Kerro se meille ja teemme parhaamme puutteen korjaamiseksi
+Ilmoita siitä meille ja teemme parhaamme, jotta voimme tarjota tiedot ja sisällöt saavutettavassa muodossa niin pian kuin mahdollista.
 
-<a href="https://opaskartta.turku.fi/eFeedback/fi/Feedback/87/1047" target="_blank">Anna saavutettavuuspalautetta tällä verkkolomakkeella</a>
+<a href="https://turku.asiointi.fi/eFeedback/fi/Feedback/48/1118" target="_blank">Saavutettavuuspalaute</a>
 
 ## Valvontaviranomainen
 
-Jos huomaat sivustolla saavutettavuusongelmia, anna ensin palautetta Turun kaupungille eli sivuston ylläpitäjälle. Vastauksessa voi mennä 14 päivää. Jos et ole tyytyväinen saamaasi vastaukseen tai et saa vastausta lainkaan kahden viikon aikana, <a href="https://www.saavutettavuusvaatimukset.fi/oikeutesi/" target="_blank">voit tehdä ilmoituksen Etelä-Suomen aluehallintovirastoon</a>. Etelä-Suomen aluehallintoviraston sivulla kerrotaan tarkasti, miten ilmoituksen voi tehdä ja miten asia käsitellään.
+Jos huomaat sivustolla saavutettavuusongelmia, anna ensin palautetta Turun kaupungille eli sivuston ylläpitäjälle. Vastauksessa voi mennä 14 päivää. Jos et ole tyytyväinen saamaasi vastaukseen tai et saa vastausta lainkaan kahden viikon aikana, voit antaa palautteen valvovalle viranomaiselle. Saavutettavuusvaatimukset.fi-sivustolla kerrotaan, miten valituksen voi tehdä ja miten asia käsitellään.
 
 ### Valvontaviranomaisen yhteystiedot
 
-Etelä-Suomen aluehallintovirasto  
-Saavutettavuuden valvonnan yksikkö  
+Liikenne- ja viestintävirasto Traficom  
+Digitaalisen esteettömyyden ja saavutettavuuden valvontayksikkö  
 <a href="https://www.saavutettavuusvaatimukset.fi" target="_blank">www.saavutettavuusvaatimukset.fi</a>  
-saavutettavuus(at)avi.fi  
-puhelinnumero vaihde 0295 016 000
+saavutettavuus@traficom.fi  
+puhelinnumero vaihde 029 534 5000
 
 ## Teemme jatkuvasti työtä saavutettavuuden parantamiseksi
 
@@ -66,11 +74,9 @@ Turun kaupungin saavutettavuusosaamista kehitetään suunnitelmallisesti ja mä�
 
 **Tarjoamme tukea käyttäjille joille digipalvelut eivät ole saavutettavissa**
 
-Turun kaupungin asiointipisteistä
+Digitukea voit saada useasta Turun kaupungin toimipisteestä, kuten Kauppatorin Monitorista ja Turun kaupunginkirjaston pääkirjastosta.
 
-- <a href="https://www.turku.fi/toimipaikat/asiointipiste-monitori-kauppakeskus-skanssi" target="_blank">Skanssin Monitorissa</a> (Skanssinkatu 10, 20730 Turku, puhelin 040 160 4556) sekä
-- <a href="https://www.turku.fi/toimipaikat/kauppatorin-monitori" target="_blank">kauppatorin Monitorissa</a> (Aurakatu 8, 20100 Turku, puhelin 02 262 0100) ja
-- kirjastoissa on mahdollisuus saada digitukea.
+<a href="https://www.turku.fi/asiointi-ja-yhteystiedot/digituki" target="_blank">Digituki</a>
 
 **Tämä verkkopalvelu on julkaistu**
 
