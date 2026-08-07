@@ -1,84 +1,59 @@
-# Åbo stads tillgänglighetsutlåtande för Kerrokantasi/Säg din åsikt
+# Tillgänglighetsutlåtande
 
-Detta tillgänglighetsutlåtande gäller <a href="https://kerrokantasi.turku.fi">https://kerrokantasi.turku.fi</a> och har upprättats 22.03.2021. Eficode har utvärderat denna digitala tjänsts tillgänglighet.
+Åbo stad strävar efter att säkerställa tillgängligheten på sina webbplatser i enlighet med <a href="https://www.finlex.fi/fi/lainsaadanto/2019/306?language=swe">lagen om tillhandahållande av digitala tjänster 306/2019</a>.
 
-## Tillgänglighetsstatus för den digitala tjänsten
+Detta tillgänglighetsutlåtande gäller tjänsten Kerrokantasi: <a href="https://kerrokantasi.turku.fi">https://kerrokantasi.turku.fi</a>
 
-Uppfyller de kritiska tillgänglighetskraven
+## Utarbetande och uppdatering av utlåtandet
 
-## Icke-tillgängligt innehåll i den digitala tjänsten (enligt WCAG-kriterierna)
+Detta utlåtande upprättades 22.03.2021. Utlåtandet uppdaterades senast 27.07.2026.
 
-### Hanterbar
+Tillgängligheten i tjänsten har bedömts av en utomstående expertorganisation. Bedömningen har genomförts mot kraven i WCAG 2.1 på nivå AA samt standarden EN 301 549.
 
-Beroende på webbläsaren fungerar gillandet av åsikter, dvs. ”att ge tummen upp”, inte optimalt med alla kombinationer av webbläsare och skärmläsare.
+## Den digitala tjänstens tillgänglighetsstatus
 
-**Tillgänglighetskrav som inte uppfylls**
+Webbtjänsten Kerrokantasi uppfyller till största delen tillgänglighetskraven enligt lagen om tillhandahållande av digitala tjänster. De brister i tillgängligheten som har identifierats samt eventuella tillämpliga undantag från kraven beskrivs nedan.
 
-- 2.1.1 Tangentbord
+## Innehåll eller funktioner med tillgänglighetsbrister
 
-### Begriplig
+### Tangentbordsanvändning och navigering
 
-När en kommentar skickas passiveras sändknappen tills de obligatoriska fälten har fyllts i. Med tanke på en tydlig responsgivning (där felet ligger) rekommenderas detta sätt varken ur tillgänglighets- eller användbarhetssynvinkel.
+Tangentbordsanvändning: Vissa funktioner kan inte användas enbart med tangentbordet. (WCAG 2.1.1)
 
-**Tillgänglighetskrav som inte uppfylls**
+### Formulär
 
-- 3.1.1 Sidans språk
-- 3.3.1 Identifiering av fel
+Inaktiva knappar: Vissa formulär använder inaktiva knappar för att visa att det saknas obligatoriska uppgifter. (WCAG 1.3.1, 3.3.1)
 
-### Robust
+### Övriga brister
 
-På grund av testmiljön har kodens validitet inte granskats på ett heltäckande sätt. Inga betydande brister upptäcktes dock till den del som den granskades.
+Kodens giltighet granskades inte heltäckande på grund av testmiljön. Inga betydande brister hittades dock inom de undersökta områdena (WCAG 4.1.1).
 
-**Tillgänglighetskrav som inte uppfylls**
+## Upptäckte du tillgänglighetsbrister i vår digitala tjänst?
 
-- 4.1.1 Parsing
+Vi håller fortfarande på att utveckla denna tjänst och strävar efter att åtgärda väsentliga brister.
 
-## **Anledning till att det/de inte uppfylls**
+Vi tar gärna emot respons om tillgängligheten på denna tjänst.
 
-**Oproportionell börda**
+Du kan begära information eller tjänsten i ett tillgängligt format till de delar som tillgänglighetskraven inte uppfylls genom att be om detta via denna feedbackprocess.
 
-Bristerna orsakar problem i användbarheten och tillgängligheten, men hindrar inte användningen av tjänsten eller tillgången till information. Behoven beaktas i mån av möjlighet när tjänsten vidareutvecklas i samarbete med andra städer.
+Vi svarar vanligtvis inom en vecka men senast inom två veckor från att du kontaktat oss.
 
-## Upprättande av detta tillgänglighetsutlåtande
+<a href="https://turku.asiointi.fi/eFeedback/sv/Feedback/48/1118" target="_blank">Tillgänglighetsfeedback</a>
 
-Detta utlåtande har upprättats 22.03.2021.
+## Stöd till användare för vilka digitala tjänster inte är tillgängliga
 
-Utlåtandet grundar sig på en utvärdering som utförts av en tredje part om huruvida tjänsten uppfyller kraven i lagen om tillhandahållande av digitala tjänster 306/2019.
-
-Utlåtandet uppdaterades senast 27.07.2026.
-
-## Märkte du en tillgänglighetsbrist i vår digitala tjänst?
-
-Beskriv den för oss och vi ska göra vårt bästa för att åtgärda den.
-
-<a href="https://turku.asiointi.fi/eFeedback/sv/Feedback/48/1118" target="_blank">Tillgänglighetsrespons</a>
-
-## Tillsynsmyndigheten
-
-Kontakta oss om du vill påtala brister i tillgängligheten på vår webbplats. Det kan ta 14 dagar innan du får ett svar. Om du inte är nöjd med det svar du har fått eller inte får något svar alls inom två veckor, kan du ge respons till tillsynsmyndigheten. På webbplatsen Tillgänglighetskrav.fi finns information om hur man kan lämna in ett klagomål och hur ärendet behandlas.
-
-### Tillsynsmyndighetens kontaktuppgifter
-
-Transport- och kommunikationsverket Traficom  
-Enheten för tillsyn över digital tillgänglighet  
-<a href="https://www.tillganglighetskrav.fi" target="_blank">www.tillganglighetskrav.fi</a>  
-tillganglighet@traficom.fi  
-telefonnummer växeln 029 534 5000
-
-## Vi arbetar kontinuerligt med att förbättra den digitala tillgängligheten
-
-**Det har gjorts en tillgänglighetsgranskning av vår digitala tjänst.**
-
-**Vi har förbundit oss vid att förbättra tillgängligheten till den digitala tjänsten.**
-
-Åbo stads kunskaper i tillgänglighet utvecklas systematiskt och målmedvetet. Stadens ramavtalsleverantörer inom tillgänglighet utvärderar stadens befintliga webbtjänster. På basis av utvärderingen utvecklas tjänsternas tillgänglighet till den nivå som lagen kräver. Vid utvecklingen och upphandlingen av nya webbtjänster beaktas tillgängligheten ända från början. Tillgänglighetsutbildning ordnas till alla parter som deltar i utvecklingen av webbtjänster och i innehållsproduktionen.
-
-**Vi erbjuder hjälp och stöd för de användare för vilka den digitala tjänsten inte är tillgänglig**
-
-Du kan få digitalt stöd på flera av Åbo stads verksamhetsställen, som Monitori på Salutorget och Åbo stadsbiblioteks huvudbibliotek.
+Du kan få digitalt stöd på flera av Åbo stads kontor, bland annat vid servicepunkten Monitori på Salutorget och vid Åbo stadsbiblioteks huvudbibliotek.
 
 <a href="https://www.turku.fi/asiointi-ja-yhteystiedot/digituki" target="_blank">Digitalt stöd</a>
 
-**Denna webbservicen har publicerats**
+## Tillsynsmyndigheten
 
-21.11.2019
+Om du upptäcker tillgänglighetsproblem på webbplatsen, vänligen ge oss (dvs. webbplatsadministratören) respons först. Du kommer att få ett svar inom 14 dagar. Om du inte är nöjd med det svar du får, eller om du inte får något svar alls inom två veckor, kan du anmäla det till Traficom. På <a href="https://saavutettavuusvaatimukset.fi/sv/anvandares-rattigheter">Traficoms sida</a> förklaras exakt hur du gör en anmälan och hur det hanteras.
+
+### Kontaktuppgifter till tillsynsmyndigheten
+
+Transport- och kommunikationsverket Traficom  
+Enheten för tillsyn över digital tillgänglighet  
+<a href="https://www.saavutettavuusvaatimukset.fi/sv" target="_blank">www.saavutettavuusvaatimukset.fi/sv</a>  
+saavutettavuus@traficom.fi  
+Telefonnummer (växel): 029 534 5000

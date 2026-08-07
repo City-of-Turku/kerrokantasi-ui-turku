@@ -1,83 +1,59 @@
-# Turun kaupungin Kerrokantasi-palvelun saavutettavuusseloste
+# Accessibility Statement
 
-Tämä saavutettavuusseloste koskee palvelua osoitteessa <a href="https://kerrokantasi.turku.fi">https://kerrokantasi.turku.fi</a> ja on laadittu 22.03.2021. Tämän digipalvelun saavutettavuuden on arvioinut Eficode.
+The City of Turku aims to ensure the accessibility of its websites in accordance with the <a href="https://www.finlex.fi/fi/lainsaadanto/2019/306">Act on the Provision of Digital Services 306/2019</a>.
 
-## Digipalvelun saavutettavuuden tila
+This accessibility statement applies to the Kerrokantasi service: <a href="https://kerrokantasi.turku.fi">https://kerrokantasi.turku.fi</a>
 
-Täyttää kriittiset saavutettavuusvaatimukset
+## Preparation and updating of this accessibility statement
 
-## Digipalvelun ei-saavutettava sisältö (WCAG-kriteerien mukaan)
+This statement was prepared on March 22nd, 2021. It was last updated on July 27th, 2026.
 
-### Hallittava
+The accessibility of the service has been evaluated by an external accessibility consultancy. The assessment was carried out against the WCAG 2.1 Level AA requirements and the requirements of the EN 301 549 standard.
 
-Selaimesta riippuen mielipiteen kannattaminen ns. ”peukutus” ei toimi optimaalisesti kaikilla selain ja ruudunlukuohjelmayhdistelmillä.
+## Accessibility status of the digital service
 
-**Saavutettavuusvaatimukset jotka eivät täyty**
+The Kerrokantasi service largely complies with the accessibility requirements of the Act on the Provision of Digital Services. The identified accessibility issues and any applicable exceptions from the requirements are described below.
 
-- 2.1.1 Näppäimistö
+## Content or functionality with accessibility issues
 
-### Ymmärrettävä
+### Keyboard access and navigation
 
-Kommenttia lähetettäessä lähetyspainike passivoidaan, kunnes vaaditut kentät on täytetty. Tapa ei ole suositeltava selkeän palautteen annon kannalta (missä virhe on) sen paremmin saavutettavuus kuin käytettävyys mielessäkään.
+Keyboard access: Some functionality cannot be used with a keyboard alone. (WCAG 2.1.1)
 
-**Saavutettavuusvaatimukset jotka eivät täyty**
+### Forms
 
-- 3.3.1 Virheen tunnistaminen
+Disabled buttons: Some forms use disabled continue or submit buttons to indicate that required information is missing. This may make it difficult for users to understand why they cannot proceed. (WCAG 1.3.1, 3.3.1)
 
-### Toimintavarma
+### Other issues
 
-Koodin validiutta ei käyty testiympäristöstä johtuen kattavasti läpi. Siinä ei kuitenkaan havaittu merkittäviä puutteita siltä osin kuin sitä tarkasteltiin.
+The code's validity was not comprehensively reviewed due to the test environment. However, no significant deficiencies were found in the areas examined (WCAG 4.1.1).
 
-**Saavutettavuusvaatimukset jotka eivät täyty**
+## Did you notice an accessibility issue in our digital service?
 
-- 4.1.1 Jäsentäminen
+We are still in the process of developing the website and are working to address key deficiencies.
 
-## **Syy noudattamatta jättämiselle**
+We welcome feedback on the accessibility of this site.
 
-Kohtuuton rasite
+You can request information or a service in an accessible format where accessibility requirements are not met by requesting this through the feedback process.
 
-Puutteet ovat käytettävyys- ja saavutettavuusongelma, mutta eivät estä palvelun käyttöä tai jätä tietoa saavuttamattomiin. Tarpeet huomioidaan mahdollisuuksien mukaan jatkossa kehitettäessä palvelua yhdessä muiden kaupunkien kanssa.
+We will usually respond within a week or at the latest within two weeks of being contacted.
 
-## Tämän saavutettavuusselosteen laatiminen
+<a href="https://turku.asiointi.fi/eFeedback/en/Feedback/48/1118" target="_blank">Accessibility feedback</a>
 
-Tämä seloste on laadittu 22.03.2021.
+## Support for users for whom digital services are inaccessible
 
-Seloste perustuu kolmannen osapuolen toteuttamaan arviointiin siitä, täyttääkö palvelu Lain digitaalisten palvelujen tarjoamisesta 306/2019 vaatimukset.
+You can get digital support from several of our City of Turku service points, e.g. Monitori at the Market Square, and the City of Turku's Library's main library.
 
-Seloste on päivitetty viimeksi 27.07.2026.
+<a href="https://www.turku.fi/asiointi-ja-yhteystiedot/digituki" target="_blank">Digital support</a>
 
-## Huomasitko saavutettavuuspuutteen digipalvelussamme?
+## Supervisory authority
 
-Ilmoita siitä meille ja teemme parhaamme, jotta voimme tarjota tiedot ja sisällöt saavutettavassa muodossa niin pian kuin mahdollista.
+If you notice accessibility problems on the site, please reach out to the site administrator first. You will receive a response within 14 days. If you are not satisfied with the response you receive, or if you do not receive a response at all within two weeks, you can report it to Traficom. The <a href="https://saavutettavuusvaatimukset.fi/en/rights-user-service">Traficom page</a> explains exactly how to make a complaint and how to deal with it.
 
-<a href="https://turku.asiointi.fi/eFeedback/en/Feedback/48/1118" target="_blank">Saavutettavuuspalaute</a>
-
-## Valvontaviranomainen
-
-Jos huomaat sivustolla saavutettavuusongelmia, anna ensin palautetta Turun kaupungille eli sivuston ylläpitäjälle. Vastauksessa voi mennä 14 päivää. Jos et ole tyytyväinen saamaasi vastaukseen tai et saa vastausta lainkaan kahden viikon aikana, voit antaa palautteen valvovalle viranomaiselle. Saavutettavuusvaatimukset.fi-sivustolla kerrotaan, miten valituksen voi tehdä ja miten asia käsitellään.
-
-### Valvontaviranomaisen yhteystiedot
+### Supervisory authority contact information
 
 Finnish Transport and Communications Agency Traficom  
-Digital Accessibility Supervision Unit  
-<a href="https://www.webaccessibility.fi" target="_blank">www.webaccessibility.fi</a>  
+Unit for Digital Accessibility Supervision  
+<a href="https://www.saavutettavuusvaatimukset.fi" target="_blank">www.saavutettavuusvaatimukset.fi</a>  
 saavutettavuus@traficom.fi  
-telephone switchboard 029 534 5000
-
-## Teemme jatkuvasti työtä saavutettavuuden parantamiseksi
-
-**Digipalveluistamme on tehty saavutettavuusarviointi.**
-
-**Olemme sitoutuneet digipalveluiden saavutettavuuden parantamiseen.**
-
-Turun kaupungin saavutettavuusosaamista kehitetään suunnitelmallisesti ja määrätietoisesti. Kaupungin saavutettavuuden puitesopimustoimittajat ovat arvioineet kaupungin verkko- ja digipalvelut. Arvioinnin perusteella palveluiden saavutettavuutta kehitetään lain vaatimalle tasolle. Uusien verkkopalveluiden kehittämisessä ja hankinnassa saavutettavuus huomioidaan alusta lähtien. Saavutettavuuskoulutusta järjestetään kaikille osapuolille, jotka osallistuvat verkkopalveluiden kehittämiseen ja niiden sisältöjen tuottamiseen. 
-
-**Tarjoamme tukea käyttäjille joille digipalvelut eivät ole saavutettavissa**
-
-Digitukea voit saada useasta Turun kaupungin toimipisteestä, kuten Kauppatorin Monitorista ja Turun kaupunginkirjaston pääkirjastosta.
-
-<a href="https://www.turku.fi/asiointi-ja-yhteystiedot/digituki" target="_blank">Digituki</a>
-
-**Tämä verkkopalvelu on julkaistu**
-
-21.11.2019
+phone number (switch): 029 534 5000
